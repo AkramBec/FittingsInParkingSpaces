@@ -1,0 +1,15 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>ТЗ от Бешшара Акрама Амекрановича</Name>
+        <Assembly>FittingsInParkingSpaces\FittingsInParkingSpaces.dll</Assembly>
+        <AddInId>4984496E-860C-4951-B087-ED3C9C938649</AddInId>
+        <FullClassName>FittingsInParkingSpaces.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>FittingsInParkingSpaces</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
